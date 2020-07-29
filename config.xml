@@ -1,0 +1,9 @@
+<config>
+    <server>
+        <port>5555</port>
+        <start_radius>20</start_radius>
+        <round_time>5</round_time>
+		<w>1924</w>
+		<h>1286</h>
+    </server>
+</config>
